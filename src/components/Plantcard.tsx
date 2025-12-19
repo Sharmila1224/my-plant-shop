@@ -19,7 +19,7 @@ function Plantcard() {
       name: "Mexican Mint",
       img: mexicanmint,
       short: "Mexican mint helps in treating cold, cough and digestion.",
-      more: "This plant is rich in aroma and grows easily in small pots. It supports respiratory health naturally."
+      more: "This plant is rich in aroma and grows easily in small pots. It supports respiratory health naturally..."
     },
     {
       id: 2,
