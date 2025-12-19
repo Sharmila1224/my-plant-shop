@@ -3,7 +3,7 @@ import mexicanmint from '../assets/img/mexican mint.jpg';
 import tulasi from '../assets/img/tulasi.jpg';
 import aleovera from '../assets/img/aleovera.jpg';
 import ashwangandha from '../assets/img/ashwangandha.jpg';
-import neem from '../assets/img/neem.jpg';
+import neem from '../assets/img/Neem.jpg';
 import moringaleaves from '../assets/img/moringaleaves.jpg';
 import tribulus from '../assets/img/tribulus.jpg';
 import betleleaf from '../assets/img/betleleaf.jpg';
